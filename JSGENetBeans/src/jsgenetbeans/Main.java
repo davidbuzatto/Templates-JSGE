@@ -64,12 +64,6 @@ public class Main extends Engine {
         double y = getScreenHeight() / 2 - r.height / 2;
         fillRectangle( x - 10, y, r.width + 20, r.height, BLACK );
         drawText( text, x, y + 10, WHITE );
-        
-        /*fillRectangle( 
-                getScreenWidth() / 2 - r.width / 2, 
-                getScreenHeight() / 2 - r.height / 2, 
-                r.width, r.height, 
-                BLACK );*/
 
         drawFPS( 20, 20 );
     
