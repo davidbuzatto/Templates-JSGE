@@ -54,16 +54,14 @@ public class Main extends Engine {
     public void draw() {
         
         clearBackground( WHITE );
-        setFontSize( 40 );
-        setFontStyle( FONT_BOLD );
 
         String text = "Basic game template";
-        Rectangle r = measureTextBounds( text );
+        Rectangle r = measureTextBounds( text, 40 );
         
         double x = getScreenWidth() / 2 - r.width / 2;
         double y = getScreenHeight() / 2 - r.height / 2;
         fillRectangle( x - 10, y, r.width + 20, r.height, BLACK );
-        drawText( text, x, y + 10, WHITE );
+        drawText( text, x, y + 10, 40, WHITE );
         
         drawFPS( 20, 20 );
     
