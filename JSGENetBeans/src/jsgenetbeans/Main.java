@@ -1,6 +1,6 @@
 package jsgenetbeans;
 
-import br.com.davidbuzatto.jsge.core.Engine;
+import br.com.davidbuzatto.jsge.core.engine.EngineFrame;
 import br.com.davidbuzatto.jsge.geom.Rectangle;
 
 /**
@@ -8,7 +8,7 @@ import br.com.davidbuzatto.jsge.geom.Rectangle;
  * 
  * @author Prof. Dr. David Buzatto
  */
-public class Main extends Engine {
+public class Main extends EngineFrame {
     
     public Main() {
         
