@@ -40,9 +40,11 @@ public class Main extends EngineFrame {
      * 
      * Input methods should be used here.
      * You MUST NOT use any of the engine drawing methods here.
+     * 
+     * @param delta Time passed between frames.
      */
     @Override
-    public void update() {
+    public void update( double delta ) {
     }
     
     /**
