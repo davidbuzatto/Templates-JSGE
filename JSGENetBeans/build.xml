@@ -73,6 +73,11 @@
     
     <target name="-post-jar">
         
+        <!-- copia os recursos para a pasta dist -->
+        <copy todir="${dist.dir}/resources">
+            <fileset dir="resources"/>
+        </copy>
+        
         <!-- copia as bibliotecas nativas do JInput para a dist -->
         <copy todir="${dist.dir}">
             <fileset dir="lib/jinput-2.0.10-natives-all"/>
