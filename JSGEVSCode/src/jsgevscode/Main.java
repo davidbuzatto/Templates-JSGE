@@ -1,6 +1,7 @@
 package jsgevscode;
 
 import br.com.davidbuzatto.jsge.core.engine.EngineFrame;
+import br.com.davidbuzatto.jsge.core.utils.DrawingUtils;
 import br.com.davidbuzatto.jsge.geom.Rectangle;
 import br.com.davidbuzatto.jsge.image.Image;
 
@@ -40,7 +41,7 @@ public class Main extends EngineFrame {
      */
     @Override
     public void create() {
-        logo = loadImage( "resources/images/logoJSGE.png" );
+        logo = DrawingUtils.createLogo();
         logo.resize( (int) ( logo.getWidth() * 0.1 ), (int) ( logo.getWidth() * 0.1 ) );
         setWindowIcon( logo );
     }
