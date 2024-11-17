@@ -1,4 +1,4 @@
-package jsgeeclipse;
+package template;
 
 import br.com.davidbuzatto.jsge.core.engine.EngineFrame;
 import br.com.davidbuzatto.jsge.core.utils.DrawingUtils;
