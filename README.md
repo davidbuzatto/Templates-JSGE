@@ -1,7 +1,7 @@
 # Templates JSGE
 
 <p align="center">
-    <img src="https://github.com/davidbuzatto/Templates-JSGE/blob/master/JSGENetBeans/resources/images/logoJSGE.png" width="288">
+    <img src="https://github.com/davidbuzatto/Templates-JSGE/blob/master/JSGENetBeans/resources/images/logoJSGE.png" width="260">
 </p>
 
 ---
