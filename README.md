@@ -1,6 +1,6 @@
 # Templates JSGE
 
-<div>
+<div style="margin:auto;">
     <img src="https://github.com/davidbuzatto/Templates-JSGE/blob/master/JSGENetBeans/resources/images/logoJSGE.png" width="288px">
 <div>
 
