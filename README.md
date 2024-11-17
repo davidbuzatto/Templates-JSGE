@@ -11,6 +11,12 @@ Todos os templates podem ser abertos ou importados diretamente para a sua IDE de
 
 Isso se faz necessário para que as biblitecas nativas, que são usadas pela JInput, sejam carregadas apropriadamente.
 
+---
+
+<p align="center">
+    <img src="https://github.com/davidbuzatto/Templates-JSGE/blob/master/JSGENetBeans/resources/images/logoJSGE.png" width="260">
+</p>
+
 # About
 Basic project templates for [JSimple Game Engine](https://github.com/davidbuzatto/JSGE), made for Apache NetBeans and VS Code.
 
