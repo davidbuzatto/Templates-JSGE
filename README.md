@@ -1,4 +1,7 @@
-# Sobre
+# Templates JSGE
+
+<img align="center" style="width:260px" src="https://github.com/davidbuzatto/Templates-JSGE/blob/master/JSGENetBeans/resources/images/logoJSGE.png" width="288px">
+
 Modelos básicos de projeto para a [JSimple Game Engine](https://github.com/davidbuzatto/JSGE), feitos para Eclipse, IntelliJ, NetBeans e VS Code.
 
 Todos os templates podem ser abertos ou importados diretamente para a sua IDE de preferência. Apenas no Eclipse é necessário configurar uma opção da VM na configuração de execução (Run Configuration). A opção é a seguinte:
