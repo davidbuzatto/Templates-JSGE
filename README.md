@@ -1,8 +1,8 @@
 # Templates JSGE
 
-<div style="width: 100%; text-align: center;">
+<p align="center">
     <img style="width:260px" src="https://github.com/davidbuzatto/Templates-JSGE/blob/master/JSGENetBeans/resources/images/logoJSGE.png" width="288px">
-<div>
+</p>
 
 Modelos básicos de projeto para a [JSimple Game Engine](https://github.com/davidbuzatto/JSGE), feitos para Eclipse, IntelliJ, NetBeans e VS Code.
 
