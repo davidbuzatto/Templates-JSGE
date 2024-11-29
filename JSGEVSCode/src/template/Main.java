@@ -88,7 +88,7 @@ public class Main extends EngineFrame {
             getScreenWidth() - logo.getWidth() - 20, 
             getScreenHeight() - logo.getHeight() - 20
         );
-        
+
         drawFPS( 20, 20 );
     
     }
