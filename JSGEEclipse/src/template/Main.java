@@ -1,6 +1,7 @@
 package template;
 
 import br.com.davidbuzatto.jsge.core.engine.EngineFrame;
+import br.com.davidbuzatto.jsge.core.utils.CoreUtils;
 import br.com.davidbuzatto.jsge.core.utils.DrawingUtils;
 import br.com.davidbuzatto.jsge.geom.Rectangle;
 import br.com.davidbuzatto.jsge.image.Image;
@@ -86,7 +87,13 @@ public class Main extends EngineFrame {
         drawImage( 
             logo, 
             getScreenWidth() - logo.getWidth() - 20, 
-            getScreenHeight() - logo.getHeight() - 20
+            getScreenHeight() - logo.getHeight() - 30
+        );
+        drawText( 
+            CoreUtils.getVersion(),
+            getScreenWidth() - measureText( CoreUtils.getVersion() ) - 20,
+            getScreenHeight() - 25,
+            BLACK
         );
         
         drawFPS( 20, 20 );

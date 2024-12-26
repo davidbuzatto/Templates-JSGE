@@ -86,7 +86,13 @@ public class Main extends EngineFrame {
         drawImage( 
             logo, 
             getScreenWidth() - logo.getWidth() - 20, 
-            getScreenHeight() - logo.getHeight() - 20
+            getScreenHeight() - logo.getHeight() - 30
+        );
+        drawText( 
+            CoreUtils.getVersion(),
+            getScreenWidth() - measureText( CoreUtils.getVersion() ) - 20,
+            getScreenHeight() - 25,
+            BLACK
         );
         
         drawFPS( 20, 20 );
