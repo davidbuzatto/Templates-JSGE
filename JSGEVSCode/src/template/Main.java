@@ -25,7 +25,7 @@ public class Main extends EngineFrame {
             "Título da Janela",  // título                       / title
             60,                  // quadros por segundo desejado / target FPS
             true,                // suavização                   / antialiasing
-            false,               // resimensionável              / resizable
+            false,               // redimensionável              / resizable
             false,               // tela cheia                   / full screen
             false,               // sem decoração                / undecorated
             false                // sempre no topo               / always on top
