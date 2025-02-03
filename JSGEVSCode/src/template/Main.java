@@ -22,7 +22,7 @@ public class Main extends EngineFrame {
         super (
             800,                 // largura                      / width
             450,                 // algura                       / height
-            "Título da Janela",  // título                       / title
+            "Window Title",      // título                       / title
             60,                  // quadros por segundo desejado / target FPS
             true,                // suavização                   / antialiasing
             false,               // redimensionável              / resizable
