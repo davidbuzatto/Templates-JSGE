@@ -19,7 +19,7 @@ public class Main extends EngineFrame {
     
     public Main() {
         
-        super (
+        super(
             800,                 // largura                      / width
             450,                 // algura                       / height
             "Window Title",      // título                       / title
