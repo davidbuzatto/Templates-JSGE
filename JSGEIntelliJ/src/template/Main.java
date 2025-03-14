@@ -28,7 +28,8 @@ public class Main extends EngineFrame {
             false,               // redimensionável              / resizable
             false,               // tela cheia                   / full screen
             false,               // sem decoração                / undecorated
-            false                // sempre no topo               / always on top
+            false,               // sempre no topo               / always on top
+            false                // fundo invisível              / invisible background
         );
         
     }
