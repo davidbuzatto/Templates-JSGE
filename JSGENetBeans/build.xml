@@ -74,7 +74,7 @@
     <target name="-post-jar">
         
         <!-- copia os recursos para a pasta dist -->
-        <copy todir="${dist.dir}/resources">
+        <copy todir="${dist.dir}/resources" failonerror="false" quiet="true">
             <fileset dir="resources"/>
         </copy>
         
