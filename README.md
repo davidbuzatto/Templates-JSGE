@@ -18,7 +18,7 @@ Isso se faz necessário para que as biblitecas nativas, que são usadas pela JIn
 </p>
 
 # About
-Basic project templates for [JSimple Game Engine](https://github.com/davidbuzatto/JSGE), made for Apache NetBeans, VS Code, IntelliJ e Eclipse.
+Basic project templates for [JSimple Game Engine](https://github.com/davidbuzatto/JSGE), made for Apache NetBeans, VS Code, IntelliJ, and Eclipse.
 
 All templates can be opened or imported directly into your preferred IDE. Only in Eclipse is it necessary to configure a VM option in the Run Configurations. The option is as follows:
 
