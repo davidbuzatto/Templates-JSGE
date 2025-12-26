@@ -9,7 +9,7 @@
       <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/jinput-2.0.10.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/jlayer-1.0.1.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/jorbis-0.0.17.4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/JSGE-v1.6.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/JSGE-v1.7.0-bin.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/mp3spi-1.9.5.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/tritonus-all-0.3.7.2.jar!/" />
     </CLASSES>
@@ -21,7 +21,7 @@
       <root url="file://$PROJECT_DIR$/lib/jinput-2.0.10-natives-all" />
     </NATIVE>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/JSGE-v1.6.1-src.zip!/src" />
+      <root url="jar://$PROJECT_DIR$/lib/JSGE-Latest/JSGE-v1.7.0-src.zip!/src" />
     </SOURCES>
   </library>
 </component>
