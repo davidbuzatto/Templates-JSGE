@@ -53,7 +53,6 @@ public class Main extends EngineFrame {
      * Os métodos de entrada devem ser usados aqui.
      * Atenção: Você NÃO DEVE usar nenhum dos métodos de desenho da engine aqui.
      * 
-     * 
      * Reads user input and update game world.
      * Input methods should be used here.
      * Warning: You MUST NOT use any of the engine drawing methods here.
