@@ -11,12 +11,12 @@
 	<classpathentry kind="lib" path="lib/JSGE-Latest/java-stream-player-10.0.2.jar"/>
 	<classpathentry kind="lib" path="lib/JSGE-Latest/java-vorbis-support-1.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/JSGE-Latest/jflac-codec-1.5.2.jar"/>
-	<classpathentry kind="lib" path="lib/JSGE-Latest/jinput-2.0.10.jar"/>
 	<classpathentry kind="lib" path="lib/JSGE-Latest/jlayer-1.0.1.4.jar"/>
 	<classpathentry kind="lib" path="lib/JSGE-Latest/jorbis-0.0.17.4.jar"/>
-	<classpathentry kind="lib" path="lib/JSGE-Latest/JSGE-v1.8.0-bin.jar" sourcepath="lib/JSGE-Latest/JSGE-v1.8.0-src.zip">
+    <classpathentry kind="lib" path="lib/JSGE-Latest/sdl2gdx-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/JSGE-Latest/JSGE-v1.9.0-bin.jar" sourcepath="lib/JSGE-Latest/JSGE-v1.9.0-src.zip">
 		<attributes>
-			<attribute name="javadoc_location" value="jar:platform:/resource/JSGEEclipse/lib/JSGE-Latest/JSGE-v1.8.0-javadoc.zip!"/>
+			<attribute name="javadoc_location" value="jar:platform:/resource/JSGEEclipse/lib/JSGE-Latest/JSGE-v1.9.0-javadoc.zip!"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/JSGE-Latest/mp3spi-1.9.5.4.jar"/>
